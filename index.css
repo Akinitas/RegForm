@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+.one{
+    background-color:crimson; padding-bottom: 35px;  
+   ; text-align: right; border: solid;border-color: crimson; height: 20px; border-style: outset; border-radius: 5px;
+}
+.two{
+    border: solid;border-width: thick; border-color:crimson; border-style:outset;
+    text-align: center; width: fit-content; margin:auto; background-color:crimson; border-radius: 5px;
+}
+h1{
+    color:black; text-align: left;
+}
+.icon{
+    background-color: crimson;
+}
+input{
+    background-color: black; width: 250px;
+}
+.icontwo{
+    margin-top: 14px;
+}
